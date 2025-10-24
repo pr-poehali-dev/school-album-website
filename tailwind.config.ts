@@ -101,8 +101,8 @@ export default {
 				'scale-in': 'scale-in 0.4s ease-out'
 			},
 			fontFamily: {
-				'display': ['Playfair Display', 'serif'],
-				'body': ['Lato', 'sans-serif']
+				'display': ['Cormorant', 'serif'],
+				'body': ['Montserrat', 'sans-serif']
 			}
 		}
 	},
