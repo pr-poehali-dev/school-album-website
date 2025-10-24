@@ -101,8 +101,8 @@ export default {
 				'scale-in': 'scale-in 0.4s ease-out'
 			},
 			fontFamily: {
-				'display': ['Cormorant', 'serif'],
-				'body': ['Montserrat', 'sans-serif']
+				'display': ['Inter', 'sans-serif'],
+				'body': ['Inter', 'sans-serif']
 			}
 		}
 	},
